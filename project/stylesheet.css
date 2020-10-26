@@ -1,0 +1,74 @@
+
+.btn-info {
+    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: rgba(91, 192, 222, 0.75);
+    letter-spacing: 1px;
+    line-height: 35px;
+    border: 2px solid rgba(91, 192, 222, 0.75);
+    border-radius: 40px;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+    padding-top: 0em;
+  }
+  
+  .btn-info:hover {
+    color: #FFF;
+    background: rgba(91, 192, 222, 0.75);
+    border: 2px solid rgba(91, 192, 222, 0.75);
+  }
+.landingRow{
+    display:flex;
+    min-height:80vh;
+  }
+  .body-wrap{
+
+    background-color:transparent;
+  }
+  header {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    background-color: #f4f4f4;
+    -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+    border-radius: 5px;
+  }
+  
+  .headerRow{
+      position:absolute;
+      top:20vh;
+    }
+.coursifyHeader{
+    font-size:3em;
+  }
+.buttonheader{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.form-inline{
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+.section2{
+  min-height:50vh;
+  padding-top: 20px;
+}
+
+.card{
+  width: 207px;
+  height: 250px;
+}
+.card-box{
+  width: 100%;
+  height: 300px;
+}
+.card-courses{
+
+  width: 40vh;
+  height: 50px;
+}
+}
+footer{
+  background-color: rgba(21, 18, 48, 0.596);
+}
